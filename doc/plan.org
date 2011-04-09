@@ -1,0 +1,47 @@
+* Castle of Elite DS plan
+** TODO Write specification
+** DONE Create tile set
+** DONE Create object set
+*** 42 objects
+**** 7 various objects
+***** Player start
+***** Goal
+***** Coin
+***** Jump boots
+***** Breakable block
+***** Blue spark
+***** Red spark
+**** 3 types of enemies
+***** Blue enemy
+***** Green enemy
+***** Yellow/purple enemy
+**** 14 types of block pickups
+**** 18 types of yellow/green/blue things
+***** Yellow switch block (filled)
+***** Yellow switch block (empty)
+***** Green switch block (filled)
+***** Green switch block (empty)
+***** Blue switch block (filled)
+***** Blue switch block (empty)
+***** Yellow switch (glowing)
+***** Yellow switch (matte)
+***** Green switch (glowing)
+***** Green switch (matte)
+***** Blue switch (glowing)
+***** Blue switch (matte)
+***** Yellow teleporter
+***** Yellow teleporter target
+***** Green teleporter
+***** Green teleporter target
+***** Blue teleporter
+***** Blue teleporter target
+** TODO Specify how tiled will be used
+** TODO Create shrinked versions of graphics
+** TODO Get code to the original
+** DONE Convert maps to own .coe format
+   .coe = Castle of Elite Level
+   Probably write a Tiled plugin for this.
+** TODO Implement game engine
+*** TODO Implement all pickup types (14 types of block configs)
+** TODO (Re)Create levels
+** TODO Create bonus levels

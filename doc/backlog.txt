@@ -1,0 +1,36 @@
+To do
+-------------------------------------------------------------------------------
+
+. Make levels 16x13 (previously 16x12)
+. Add missing sounds
+. Font system
+. Save/load game
+. Game description screen
+. Screen transitions
+. Graphical effects
+. Character selection
+. Bonus levels
+. Editor
+. Level names
+. "Press Start for hints"
+. Don't play animation for breakable blocks at start of level
+. Level selection, set selection
+. Scatter debris when destroying a block
+
+
+Done
+-------------------------------------------------------------------------------
+
+. Intro screen (partial / should be nicer)
+. Level selection screen (partial / no set selection)
+. Blue sparks
+. Red sparks
+. Jump boots
+. Sweeper
+. Trundler
+. Trapper
+. Blocks and switches
+. Teleporters
+. Show "window" in bottom screen
+. Correct enemy movement
+
